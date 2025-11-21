@@ -111,23 +111,3 @@ TODO: Write 3–4 short points about yourself.
 
 ---
 
-### Your tasks
-
-<!--
-TODO:
-- These are the things students MUST do after forking.
-- You can read and follow one by one.
--->
-
-1. Replace **all occurrences** of `gaureshpai` with **your GitHub username**.  
-2. Update LinkedIn / Twitter / Portfolio links to YOUR actual links (or remove if not applicable).  
-3. Edit the **About me** section to describe YOU.  
-4. Push your changes and check how your profile looks on your GitHub profile page.  
-
----
-
-### Tips
-
-- Start simple; you can always come back and improve this README later.  
-- Try changing themes/colors in the URLs and see how the cards change.  
-- If something breaks, check for typos in the `username=` or your links.  

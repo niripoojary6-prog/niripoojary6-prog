@@ -7,7 +7,7 @@ INSTRUCTIONS:
 1. Fork this repo to your own account and name the repo with your github user id to get it displayed in the profile.
 2. Edit this README.md.
 3. Everywhere you see TODO, replace it with YOUR details.
-4. Everywhere you see `gaureshpai` or my links, replace with YOUR username / links.
+4. Everywhere you see `=niripoojary6-prog` or my links, replace with YOUR username / links.
 -->
 
 <!-- Header -->

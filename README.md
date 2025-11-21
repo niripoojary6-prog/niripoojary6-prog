@@ -12,7 +12,7 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> niri
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
@@ -23,7 +23,7 @@ TODO:
   Docs: https://komarev.com/ghpvc/
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaureshpai&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=niripoojary&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <!--
@@ -32,7 +32,7 @@ TODO:
 - If you don't have one, just remove that badge
 -->
 <p align="center">
-  <a href="https://linkedin.com/in/gaureshpai"><!-- TODO: Your LinkedIn URL -->
+  <a href="https://linkedin.com/in/niripoojary"><!-- TODO: Your LinkedIn URL -->
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/hseruag"><!-- TODO: Your Twitter/X URL (or remove) -->
@@ -67,7 +67,7 @@ TODO: Write 3–4 short points about yourself.
   - Replace `gaureshpai` with YOUR Holopin username.
   - Or delete this block if you don't use Holopin.
   -->
-  <a href="https://holopin.io/@gaureshpai">
+  <a href="https://holopin.io/@niripoojary">
     <img src="https://holopin.me/gaureshpai" alt="Holopin badges">
   </a>
 
@@ -104,7 +104,7 @@ TODO: Write 3–4 short points about yourself.
   - You can change theme and show_icons at: https://github.com/anuraghazra/github-readme-stats
   -->
   <a href="https://github.com/gaureshpai">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaureshpai&show_icons=true&theme=tokyonight" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=niripoojary&show_icons=true&theme=tokyonight" alt="GitHub stats">
   </a>
 
 </div>
